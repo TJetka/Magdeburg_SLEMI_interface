@@ -1,2 +1,2 @@
-# Magdeburg_SELMI_interface
+# Magdeburg_SLEMI_interface
 interface for SLEMI for Magdeburg experiments
